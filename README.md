@@ -1,2 +1,2 @@
 # App_Simples-de-cadastro-de-series-console
-App de cadastro de serie usando C# e .net
+App de cadastro de serie usando C# e .net by Digital Inovation one
